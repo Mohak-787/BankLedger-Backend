@@ -4,7 +4,6 @@ Backend service for a ledger-based banking workflow built with Node.js, Express,
 
 ## Base URLs
 
-- Production: `https://bankledger-backend.onrender.com`
 - Local: `http://localhost:5001`
 
 ## Authentication
